@@ -1,6 +1,6 @@
 {
   "name": "ssd1306-cpx",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "SSD1306 OLED driver for CPX",
   "dependencies": {
     "core": "*"
